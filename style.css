@@ -1,0 +1,104 @@
+
+h1{
+    text-align: center;
+    text-shadow: 3px 3px 5px black;
+    color: hsl(14, 87%, 51%);
+    font-size: 50px;
+  
+}
+
+p{
+    font-size: 15px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.link{
+  
+    background-color: hsl(17, 100%, 50%);
+    
+    color: white;
+}
+.link:hover{
+    color: red;
+    border: 1px solid black;
+    padding-bottom: 1vh;
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 2vh;
+}
+
+
+  .head{
+   background-color: hsla(0, 0%, 50%, 0.877);
+   background-image: url(images/abs.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+border-top-right-radius: 20px;
+  }
+
+  .head p{
+    font-size: 20px;
+    font-style: italic;
+    color: white;
+   margin-top: 10px;
+  }
+.letter{
+    background-color: hsl(0, 1%, 34%);
+    text-align: center;
+    color: white;
+    border-top-right-radius: 20px;
+}
+.box{
+  border: none;
+  box-shadow: 2px 3px white;
+}
+
+
+#press:hover{
+   background-color: hsl(113, 100%, 50%);
+   border: none;
+}
+
+.pics{
+    background-color:hsl(0, 1%, 34%);
+    padding: 10px;
+}  
+
+.mid{
+    word-spacing: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: bold;
+    color: white;
+
+}
+.middle{
+    background-image: url(images/land.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 15px;
+}
+.footer{
+    background-color: hsl(0, 1%, 34%);
+    text-align: center;
+    color: white;
+    
+}
+
+#boy1:hover{
+    background-color: gray;
+    text-transform: none;
+    text-decoration: none;
+
+}
+
+#boy1:active{
+    background-color: hsl(19, 84%, 49%);
+}
+#boy1:visited{
+    background-color: hsl(41, 89%, 44%);
+}
